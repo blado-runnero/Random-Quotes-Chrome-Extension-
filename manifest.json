@@ -1,0 +1,9 @@
+{
+    "name": "Random Quotes",
+    "version": "1.0",
+    "description": "Just as we peomised, it pops a random quote and shuts after 5 seconds.",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "popup.html"
+        }
+}
